@@ -1,2 +1,1 @@
-# Using-SQL-String-Functions-to-Clean-Data
-SQL String Functions to Clean Data
+# Using SQL String Functions to Clean Data
